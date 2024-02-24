@@ -1,1 +1,2 @@
 # Financial-Market-Statement-Analysis
+ FIrstly, we import the library needed for data manipulation and analysis then store the dataset thus by importing from the source and assign it to a variable for further use. We access specific rows as per the requirement of the program. and get the index and length of it. we extract information anf store it in another variable. We then define target variable(y) and feature variable(X). Then we split our dataset to train and test. Then we train our model using sklearn's ensemble library and use the model to predict.
